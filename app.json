@@ -1,0 +1,26 @@
+{
+  "id": "a03d777c-3f82-4257-a23a-fce85400e297",
+  "name": "Job and Sales Extension",
+  "publisher": "Toggi Services Ltd.",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.3",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.35916.0",
+  "application": "14.5.35970.0",
+  "target": "Extension",
+  "showMyCode": true,
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
